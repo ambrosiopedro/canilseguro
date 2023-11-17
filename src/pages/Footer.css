@@ -1,0 +1,67 @@
+.footerArea
+{
+    height: 165px;
+    background-color: #7d7d7d;
+    display: flex;
+    flex-direction: column;
+}
+
+.contentArea {
+    display: flex;
+}
+
+.imgArea {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+#SobreOCanil
+{
+    color: #FFFFFF;
+    font-size: 25px;
+    justify-content: left;
+    flex: 1;
+    margin-left: 200px;
+}
+
+#Cbkc
+{
+    color: #FFFFFF;
+    font-size: 25px;
+    justify-content: right;
+    margin-right: 200px;
+}
+
+#Instagram
+{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+#Facebook
+{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#Twitter
+{
+    width: 55px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+.ImageInsta
+{
+    display: flex;
+    justify-content: center;
+}
